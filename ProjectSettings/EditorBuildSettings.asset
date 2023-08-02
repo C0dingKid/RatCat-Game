@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 99ac83c598c6c704897b3e0d430d4d16
+  - enabled: 1
+    path: Assets/Scenes/MOUSE.unity
+    guid: 96229b33e1ac0ad43b2f4da56a2f7357
+  - enabled: 1
+    path: Assets/Scenes/GotCaught.unity
+    guid: 4b0866c7eff3ab04f98312f7ebe0a093
+  - enabled: 1
+    path: Assets/Scenes/GOTAwAY.unity
+    guid: 8516bdf233ab1374690975e517419392
+  - enabled: 0
+    path: Assets/Scenes/CLOSE.unity
+    guid: e8519e290db596243b1c0fc04c89d188
+  m_configObjects: {}
